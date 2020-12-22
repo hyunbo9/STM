@@ -8,3 +8,8 @@
 
 Since each pixel of Key of Query makes weight from every pixels in Keys of Memory, 
 if two objects of the same shape appear, then network makes two mask to two object. 
+
+![00000](https://user-images.githubusercontent.com/26562858/102914386-8b38d080-44c3-11eb-91e8-3f2152494151.jpg)
+![result01](https://user-images.githubusercontent.com/26562858/102914399-90961b00-44c3-11eb-84d1-bd8277b57757.png)
+![00051](https://user-images.githubusercontent.com/26562858/102914418-94c23880-44c3-11eb-9d25-d96e8c97ea54.jpg)
+![00051](https://user-images.githubusercontent.com/26562858/102914442-9c81dd00-44c3-11eb-9277-af2f38406d3b.png)
