@@ -1,4 +1,5 @@
-
+Since each pixel of Key of Query makes weight from every pixels in Keys of Memory, 
+if two objects of the same shape appear, then network makes two mask to two object. 
 
 ![KakaoTalk_20201223_124618451](https://user-images.githubusercontent.com/26562858/102957106-efd44980-451c-11eb-8b6a-90fc9fe2e713.jpg)
 
@@ -11,6 +12,5 @@
 ![4](https://user-images.githubusercontent.com/26562858/102954569-1abb9f00-4517-11eb-9d2a-4dcac781a2e0.jpg)
 
 
-Since each pixel of Key of Query makes weight from every pixels in Keys of Memory, 
-if two objects of the same shape appear, then network makes two mask to two object. 
+
 
