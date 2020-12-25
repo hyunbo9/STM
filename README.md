@@ -4,6 +4,8 @@
 Since each pixel of Key of Query makes weight from every pixels in Keys of Memory, 
 if two objects of the same shape appear, then network makes two mask to two object. 
 
+It means that the network tracks the appearance, not the object.
+
 ![KakaoTalk_20201223_124618451](https://user-images.githubusercontent.com/26562858/102957106-efd44980-451c-11eb-8b6a-90fc9fe2e713.jpg)
 
 ![2020-12-23 12;05;59](https://user-images.githubusercontent.com/26562858/102954641-4fc7f180-4517-11eb-8d01-003f34e813c0.PNG)
